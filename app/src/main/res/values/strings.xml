@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SBMG - Chanda</string>
+    <string name="select_state"> Select State </string>
+
+    <string name="num_gp"> No. of Gram Panchayat </string>
+
+    <string name="num_hh"> No. of House Holds </string>
+    <string name="num_hh_wt_toilet"> No. of House Holds with Toilets </string>
+    <string name="num_hh_wo_toilet"> No. of House Holds without Toilets </string>
+    <string name="coverage_wt_toilet"> % Coverage with Toilets </string>
+    <string name="num_gp_complete_coverage"> No. of Gram Panchayat with Complete Coverage </string>
+    <string name="num_gp_declared_odf"> No. of Gram Panchayat Declared ODF </string>
+
+
+</resources>
